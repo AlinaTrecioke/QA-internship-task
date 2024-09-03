@@ -13,18 +13,18 @@ Before you begin, ensure you have the following installed:
 
 2. ## Setup
 
-1. Clone the repository:
-   git clone https://github.com/AlinaTrecioke/QA-internship-task.git
-   cd your-repository
+   1. Clone the repository:
+      git clone https://github.com/AlinaTrecioke/QA-internship-task.git
+      cd your-repository
 
-2. Open the Project in IntelliJ IDEA:
+   2. Open the Project in IntelliJ IDEA:
 
-   Open IntelliJ IDEA and select "Open" from the main menu.
-   Navigate to the project directory and select the pom.xml file. IntelliJ will automatically import the Maven dependencies.
+      Open IntelliJ IDEA and select "Open" from the main menu.
+      Navigate to the project directory and select the pom.xml file. IntelliJ will automatically import the Maven dependencies.
 
-3. Run Tests via IntelliJ IDEA:
-   Open the test directory and navigate to the test class you want to run.
-   Right-click on the test class or method and select "Run".
+   3. Run Tests via IntelliJ IDEA:
+      Open the test directory and navigate to the test class you want to run.
+      Right-click on the test class or method and select "Run".
 
 
 3. ## Technologies Used
